@@ -8,6 +8,7 @@ const STAR_SIZE = {
     lg: '2rem',
     xl: '2.5rem',
     xxl: '3rem',
+    xxxl: '3.5rem'
 }
 
 const Rating = ({ count = 5, size='md', disabled=false }) => {
